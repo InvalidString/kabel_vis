@@ -1,4 +1,6 @@
-**kabel_vis is a simple circuit visualisation and simulation tool**
+# kabel_vis 
+
+kabel_vis is a simple circuit visualisation and simulation tool
 
 dependencies
 ------------

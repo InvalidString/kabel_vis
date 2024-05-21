@@ -5,7 +5,7 @@ kabel_vis is a simple circuit visualisation and simulation tool
 <p align="center">
   <img alt="Flip-flop circuit in kabel_vis"
        src="extra/flip-flop.png">
-[flip-flop circuit](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+<a href="https://en.wikipedia.org/wiki/Flip-flop_(electronics)">flip-flop circuit</a>
 
 dependencies
 ------------

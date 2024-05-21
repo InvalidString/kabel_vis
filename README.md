@@ -2,6 +2,11 @@
 
 kabel_vis is a simple circuit visualisation and simulation tool
 
+<p align="center">
+  <img alt="Flip-flop circuit in kabel_vis"
+       src="extra/flip-flop.png">
+[flip-flop circuit](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+
 dependencies
 ------------
  - [raylib](https://github.com/raysan5/raylib)
@@ -41,10 +46,11 @@ controls
  - R hot reload (if available)
  - Ctrl + R close window hot reload then reopen window (if available)
 ## Connecting gates with wires
- leftclick a gate port (gray circle) to start creating a wire
- leftclick anywhere to create a waypoint along the wire
- rightclick/ESC to cancel
- leftclick another connector to finish the connection
+ Leftclick a gate port (gray circle) to start creating a wire.
+ Leftclick anywhere to create a waypoint along the wire.
+ Leftclick another connector to finish the connection
+ or Rightclick/ESC to cancel.
+
 
  attempting to create a wire starting from an input (port on the left side of a gate)
  will remove the previous connection
